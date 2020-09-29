@@ -132,7 +132,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\MushroomDetector\AICognitive.csproj">
+    <ProjectReference Include="..\AICognitive\AICognitive.csproj">
       <Project>{2C1D8950-95D4-415D-9F20-22D16DDEABFF}</Project>
       <Name>AICognitive</Name>
     </ProjectReference>
